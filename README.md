@@ -1,7 +1,7 @@
 # CS100 - Computer Programming - Shanghaitech
 
 This is a collection of CS100 course projects in 2019 fall.
-In contains 8 individual projects, including basic C programming, C++ programming
+It contains 8 individual projects, including basic C programming, C++ programming
 
 ## What can I learn from these projects?
 - Syntax of C and C++ programming language
