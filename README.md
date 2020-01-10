@@ -1,7 +1,7 @@
 # CS100 - Computer Programming - Shanghaitech
 
 This is a collection of CS100 course projects in 2019 fall.
-It contains 8 individual projects, including basic C programming, C++ programming
+It contains 8 individual projects, including basic C and C++ programming language
 
 ## What can I learn from these projects?
 - Syntax of C and C++ programming language
@@ -10,14 +10,14 @@ It contains 8 individual projects, including basic C programming, C++ programmin
     - Operations
     - Structures
     - Control flow
-    - Recursion
-    - Object oriented programming (Encapsulation, Inheritance and Polymorphism)
-    - Templates
-    - CMake
-    - Basic multi-thread programming
-    - Part of new features of C++11/14/17
-    - Basic functional programming
-    - Dependencies management (Eigen, OpenCV...)
+- Recursion
+- Object oriented programming (Encapsulation, Inheritance and Polymorphism)
+- Templates
+- CMake
+- Basic multi-thread programming
+- Part of new features of C++11/14/17
+- Basic functional programming
+- Dependencies management (Eigen, OpenCV...)
 
 ## Contents of each project/homework
 - HW1 (Simple problems)
