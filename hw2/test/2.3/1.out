@@ -1,0 +1,8 @@
+Please input the set A:
+(resize) from 5 to 10
+(resize) from 10 to 20
+(resize) from 20 to 40
+Please input the set B:
+(resize) from 5 to 10
+---Result---
+6 14 2 5 9
