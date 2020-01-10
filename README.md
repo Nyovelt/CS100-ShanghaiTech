@@ -47,6 +47,6 @@ It contains 8 individual projects, including basic C and C++ programming languag
     - Functional programming (lambdas)
 
 ## How long will I spend on these problems?
-- For me (one of head TAs of this course, and the author of most of these projects), about 15 hours in total
+- For me (one of head TAs of this course, and the author of part of this projects), about 15 hours in total
 - If you have never learned programming before, maybe 2 weeks or much longer
 
